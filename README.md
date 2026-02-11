@@ -1,29 +1,10 @@
-✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23984
-Fork on GitHub
-8242
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Bemnet</h1>
 <h3 align="center">A passionate frontend developer from Ethiopia</h3>
 
-- 🔭 I’m currently working on **Skillfighter**
+- 🔭 I’m currently working on **MMCYTech**
 
-- 🌱 I’m currently learning **Nodejs,**
+- 🌱 I’m currently learning **Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://bemnet.netlify.app/](https://bemnet.netlify.app/)
 
