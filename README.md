@@ -24,17 +24,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bemnet-dev&show_icons=true&locale=en" />
-</p>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bemnet-dev" />
 </p>
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bemnet-dev&show_icons=true&locale=en&layout=compact" />
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -80,9 +74,4 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bemnet-dev&theme=github_dark" />
 </p>
 
-<h3 align="center">Contribution Snake</h3>
 
-<!-- IMPORTANT: This snake requires GitHub Action setup -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/Bemnet-dev/Bemnet-dev/output/snake.svg" alt="snake animation" />
-</p>
