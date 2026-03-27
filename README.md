@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bemnet</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>
+<h3 align="center">A passionate Mobile and Website developer from Ethiopia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bemnet-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 - 🔭 I’m currently working on **MMCYTech**
-- 🌱 I’m currently learning **Nodejs**
-- 👨‍💻 All of my projects are available at https://bemnet.netlify.app/
 - 💬 Ask me about **React, React Native**
 - 📫 How to reach me **bemnet.important@Gmail.com**
 
