@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bemnet</h1>
-<h3 align="center">A passionate Mobile and Website developer from Ethiopia</h3>
+<h1 align="center">Hi 👋, I'm Bemnet Yitagesu</h1>
+<h3 align="center">A Passionate Software Developer From Ethiopia</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Bemnet-dev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 - 🔭 I’m currently working on **MMCYTech**
-- 💬 Ask me about **React, React Native**
+- 💬 Ask me about **React, React Native, Next, Wordpress, Figma, Webflow**
 - 📫 How to reach me **bemnet.important@Gmail.com**
 
 <h3 align="left">Connect with me:</h3>
